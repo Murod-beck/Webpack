@@ -14,7 +14,6 @@ if (modeLocal) {
 }
 
 function localMode() {
-  card.classList.toggle("cards");
   text.classList.toggle("texts");
   bodys.classList.toggle("bodys");
   icons.classList.toggle("bi-moon-fill");
